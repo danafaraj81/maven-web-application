@@ -104,7 +104,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mahesh Snapshot Nexus Repository </name>
-	      <url>http://3.108.185.121:8081/repository/salomey_snapshot/</url>
+	      <url>http://18.216.149.52:9091/amazon/repository/BestBuy_snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
