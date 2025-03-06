@@ -98,7 +98,7 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mahesh Releases Nexus Repository</name>
-	      <url>http://18.216.149.52:9091/amazon/repository/BestBuy_release/</url>
+	      <url>http://18.216.52.160:9091/amazon/repository/BestBuy_release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
