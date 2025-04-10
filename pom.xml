@@ -21,7 +21,7 @@
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http://18.217.165.116</sonar.host.url>
+		<sonar.host.url>http://18.218.67.65</sonar.host.url>
 		<sonar.login>admin</sonar.login>
 		<sonar.password>Cant4getthis!</sonar.password> 
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mahesh Releases Nexus Repository</name>
-	      <url>http://18.222.113.164:9091/amazon/repository/BestBuy_release/</url>
+	      <url>http://18.220.110.189:9091/amazon/repository/BestBuy_release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mahesh Snapshot Nexus Repository </name>
-	      <url>http://18.222.113.164:9091/amazon/repository/BestBuy_snapshot/</url>
+	      <url>http://18.220.110.189:9091/amazon/repository/BestBuy_snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
