@@ -105,7 +105,7 @@
         <a href="#">Home</a>
         <a href="#">About Us</a>
         <a href="#">Admissions</a>
-        <a href="#">Departments</a>
+        <a href="#">Technology</a>
         <a href="#">Farajcontact</a>
     </nav>
 
