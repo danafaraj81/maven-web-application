@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mahesh Releases Nexus Repository</name>
-	      <url>http://18.220.110.189:9091/amazon/repository/BestBuy_release/</url>
+	      <url>http://3.128.203.78:9091/amazon/repository/BestBuy_release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mahesh Snapshot Nexus Repository </name>
-	      <url>http://18.220.110.189:9091/amazon/repository/BestBuy_snapshot/</url>
+	      <url>http://3.128.203.78:9091/amazon/repository/BestBuy_snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
